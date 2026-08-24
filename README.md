@@ -20,7 +20,7 @@ at 100 % scale on the printer you already own, and assemble a seamless full-size
 
 ---
 
-![Splitter Studio application screenshot](screenshots/app-screenshot.png)
+![Splitter Studio application screenshot](https://github.com/MrshamanDev/Splitter-Studio/blob/main/app-screenshot.png)
 
 ## Why
 
